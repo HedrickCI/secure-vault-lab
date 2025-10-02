@@ -1,0 +1,15 @@
+File: keys.txt
+Size: 43 bytes
+Last modified: 2025-10-02 12:33:56.775082835 -0700
+Permissions: 644
+--------------------------
+File: secrets.txt
+Size: 46 bytes
+Last modified: 2025-10-02 12:33:56.775082835 -0700
+Permissions: 640
+--------------------------
+File: logs.txt
+Size: 43 bytes
+Last modified: 2025-10-02 12:33:56.775082835 -0700
+Permissions: 644
+--------------------------
